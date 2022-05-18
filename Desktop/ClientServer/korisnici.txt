@@ -1,0 +1,13 @@
+marko12 marko.12 Marko Petrović 0512981717770 M marko@gmail.com true false false Pfizer null null false 01/01/2021 null null 
+petra23 petra.23 Petra Stanković 0512981717771 Ž petra@gmail.com true true false SputnjikB SputnjikB null true 05/02/2021 06/03/2021 null 
+petar11 petar.11 Petar Milošević 0512981717772 M petar@gmail.com true true true Sinopharm Sinopharm AstraZeneca true 06/03/2021 06/04/2021 06/12/2021 
+uros22 uros.22 Uros Stefanović 0512981717773 M uros@gmail.com true false false AstraZeneca null null false 15/01/2021 null null 
+radoslav34 radoslav.34 Radoslav Marković 0512981717774 M radoslav@gmail.com true true false Pfizer Pfizer null true 04/05/2021 14/08/2021 null 
+ivana55 ivana.55 Ivana Stevanović 0512981717775 Ž ivana@gmail.com true true true AstraZeneca AstraZeneca AstraZeneca true 06/03/2021 06/04/2021 06/12/2021 
+marina66 marina.66 Marina Marinković 0512981717776 Ž marina@gmail.com true true false AstraZeneca AstraZeneca null true 06/03/2021 01/10/2021 null 
+marinko87 marinko.87 Marinko Andrić 0512981717777 M marinko@gmail.com true true false Pfizer Pfizer null true 06/03/2021 06/04/2021 null 
+goran99 goran.99 Goran Gavrilović 0512981717778 M goran@gmail.com true true true AstraZeneca AstraZeneca Pfizer true 06/03/2021 06/04/2021 06/12/2021 
+teodora00 teodora.00 Teodora Tešić 0512981717779 Ž teodora@gmail.com true true false SputnjikB SputnjikB null true 06/06/2021 01/10/2021 null 
+nikola44 nikola.44 Nikola Ratković 0604000740031 M ratkovic@gmail.com true true false Sinopharm Sinopharm null true 29/05/2021 19/06/2021 null 
+ivana12 ivana.12 Ivana Ivanović 0102334567444 Ž ivana@hotmail.com true true false AstraZeneca AstraZeneca null true 10/07/2021 29/10/2021 null 
+petar12 petar.12 Petar Petrovic 1234567890000 M petar@gmail.com true true false Pfizer Pfizer null false 01/01/2021 01/02/2021 null 

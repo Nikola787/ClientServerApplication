@@ -1,0 +1,13 @@
+
+---------------KOVID PROPUSNICA---------------
+
+
+
+Ime:Marko     Prezime:Petrović     JMBG:0512981717770
+
+Naziv primljene prve vakcine:Pfizer
+Datum primljene prve vakcine:01/01/2021
+
+Naziv primljene druge vakcine:Pfizer
+Datum primljene druge vakcine:01/12/2021
+

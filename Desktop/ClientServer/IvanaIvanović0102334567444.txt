@@ -1,0 +1,13 @@
+
+---------------KOVID PROPUSNICA---------------
+
+
+
+Ime:Ivana     Prezime:Ivanović     JMBG:0102334567444
+
+Naziv primljene prve vakcine:AstraZeneca
+Datum primljene prve vakcine:10/07/2021
+
+Naziv primljene druge vakcine:AstraZeneca
+Datum primljene druge vakcine:29/10/2021
+

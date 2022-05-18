@@ -1,0 +1,16 @@
+
+---------------KOVID PROPUSNICA---------------
+
+
+
+Ime:Petar     Prezime:Petrovic     JMBG:1008199700000
+
+Naziv primljene prve vakcine:Pfizer
+Datum primljene prve vakcine:01/01/2021
+
+Naziv primljene druge vakcine:Pfizer
+Datum primljene druge vakcine:01/03/2021
+
+Naziv primljene trece vakcine:Pfizer
+Datum primljene trece vakcine:01/12/2021
+
